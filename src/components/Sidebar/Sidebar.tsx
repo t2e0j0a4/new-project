@@ -17,73 +17,73 @@ const Menu: SidebarMenuTypes[] = [
     {
         id:1,
         title: 'Invoices',
-        path: '/dashboard/invoices',
+        path: '/dashboard',
         icon: LiaFileInvoiceSolid,
         iconColor: '#20e8e5'
     },{
         id:2,
         title: 'Customers',
-        path: '/dashboard/customers',
+        path: '/dashboard',
         icon: FaUser,
         iconColor: '#1cf6bc'
     },{
         id:3,
         title: 'My Business',
-        path: '/dashboard/business',
+        path: '/dashboard',
         icon: IoSettingsOutline,
         iconColor: '#15deec'
     },{
         id:4,
         title: 'Invoice Journal',
-        path: '/dashboard/journal',
+        path: '/dashboard',
         icon: FaBook,
         iconColor: '#16dbf5'
     },{
         id:5,
         title: 'Price List',
-        path: '/dashboard/prices',
+        path: '/dashboard',
         icon: IoMdPricetag,
         iconColor: '#f1a129'
     },{
         id:6,
         title: 'Multiple Invoicing',
-        path: '/dashboard/multi-invoices',
+        path: '/dashboard',
         icon: LiaFileInvoiceSolid,
         iconColor: '#2bd8e1'
     },{
         id:7,
         title: 'Unpaid Invoices',
-        path: '/dashboard/unpaid-invoices',
+        path: '/dashboard',
         icon: MdCancel,
         iconColor: '#d42f7c'
     },{
         id:8,
         title: 'Offer',
-        path: '/dashboard/offers',
+        path: '/dashboard',
         icon: BiSolidOffer,
         iconColor: '#e8c64a'
     },{
         id:9,
         title: 'Inventory Control',
-        path: '/dashboard/inventory',
+        path: '/dashboard',
         icon: MdOutlineInventory,
         iconColor: '#48edf3'
     },{
         id:10,
         title: 'Member Invoicing',
-        path: '/dashboard/member',
+        path: '/dashboard',
         icon: RiPassValidLine,
         iconColor: '#0b70af'
     },{
         id:11,
         title: 'Imports/Exports',
-        path: '/dashboard/import-exports',
+        path: '/dashboard',
         icon: IoIosCloudDownload,
         iconColor: '#2466bd'
     },{
         id:12,
         title: 'Logout',
-        path: '/dashboard/logout',
+        path: '/dashboard',
         icon: IoIosLogOut,
         iconColor: '#32e1a4'
     },
