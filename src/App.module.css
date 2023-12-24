@@ -1,0 +1,20 @@
+.app {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #FFF;
+}
+
+.app__dashboard {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  overflow-y: hidden;
+  background-color: #FFF;
+}
+
+@media all and (max-width: 950px) {
+  .app__dashboard {
+    position: relative;
+  }
+}
